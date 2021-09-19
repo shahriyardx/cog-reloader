@@ -16,7 +16,7 @@ setup(
     description="Make reloading cogs easy while editing. Compitable with `nextcord` and `discord.py`",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/shahriyardx/cog-relaoder/",
+    url="https://github.com/shahriyardx/cog-reloader/",
     author="Md Shahriyar Alam",
     author_email="mdshahriyaralam552@gmail.com",
     license="MIT",
